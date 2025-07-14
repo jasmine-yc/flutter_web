@@ -1,0 +1,20 @@
+[
+    {
+        "title":"Harry Potter",
+        "author":"JK Rowling",
+        "description":"You know who.",
+        "imageUrl":"assets/harry_potter.jpg"
+    },
+    {
+        "title":"波特萊爾大遇險",
+        "author":"Lemony Snicket",
+        "description":"A Series of Unfortunate Events.",
+        "imageUrl":"assets/波特萊爾大遇險.jpg"
+    },
+    {
+        "title":"波特萊爾大遇險",
+        "author":"Lemony Snicket",
+        "description":"A Series of Unfortunate Events.",
+        "imageUrl":"assets/波特萊爾大遇險.jpg"
+    }
+]
