@@ -44,6 +44,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/android/local.properties
+*.lock
 
 .env
 
+android/.gradle/
+android/app/.cxx/
